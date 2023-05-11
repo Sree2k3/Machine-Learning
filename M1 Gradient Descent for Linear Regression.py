@@ -3,20 +3,6 @@
 
 # # GD for LR
 
-# In[2]:
-
-
-pip install python-utils
-
-
-# In[2]:
-
-
-pip install lab_utils_uni
-
-
-# In[3]:
-
 
 import math, copy
 import numpy as np
