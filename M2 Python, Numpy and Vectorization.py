@@ -25,7 +25,7 @@ a = np.random.random_sample(4); print(f"np.random.random_sample(4): a = {a},asha
 
 
 # Numpy routines which allocate memory and fill arrays with value but do not accept as imput argument
-a = np.arrange(4.);      print(f"np.arange(4.):     a = {a}, a shape = {a.shape}, a data type = {a.dtype}")
+a = np.arange(4.);      print(f"np.arange(4.):     a = {a}, a shape = {a.shape}, a data type = {a.dtype}")
 a = np.random.rand(4);   print(f"np.random.rand(4):     a = {a}, a shape = {a.shape}, a data type = {a.dtype}")
 
 
